@@ -96,7 +96,7 @@
   "lobby_msg_discord_input": "§a請在聊天欄中輸入有效的 Discord ID：",
   "lobby_msg_discord_invalid": "§cDiscord 格式無效！（已取消）",
   "lobby_msg_discord_removed": "§c你的 Discord ID 已被清除。",
-  "lobby_msg_discord_updated": "§a成功更新 Discord。（§6%p%§a）\n你现在可以在 Discord 伺服器中驗證你的 Minecraft 帳戶了！",
+  "lobby_msg_discord_updated": "§a成功更新 Discord。（§6%p%§a）\n你現在可以在 Discord 伺服器中驗證你的 Minecraft 帳戶了！",
   "lobby_msg_join_lobby": "%p% 已加入大廳！",
   "lobby_msg_reset_stat_success": "成功重設你的統計資料。",
   "lobby_msg_reset_stat_success_rejoin": "成功重設你的設定。\n請重新加入。",
