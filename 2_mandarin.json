@@ -93,7 +93,7 @@
   "lobby_item_settings": "§c設定",
   "lobby_lore_discord_edit": "§a左鍵: 編輯§8 , §c右鍵: 移除",
   "lobby_msg_alr_in_lobby": "§c你已經在大廳中。",
-  "lobby_msg_discord_input": "§a請在聊天欄中输入有效的 Discord ID：",
+  "lobby_msg_discord_input": "§a請在聊天欄中輸入有效的 Discord ID：",
   "lobby_msg_discord_invalid": "§cDiscord 格式無效！（已取消）",
   "lobby_msg_discord_removed": "§c你的 Discord ID 已被清除。",
   "lobby_msg_discord_updated": "§a成功更新 Discord。（§6%p%§a）\n你现在可以在 Discord 伺服器中驗證你的 Minecraft 帳戶了！",
