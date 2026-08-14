@@ -22,6 +22,7 @@
   "fb_inv_menu": "§bFastBuilder Menu",
   "fb_timeout": "§7[§bFastBuilder§7] §cThe bridging attempt is cancelled! (timed out)",
   "fb_nomap": "§7[§bFastBuilder§7] §cWe couldn't find any available slot.",
+  "fb_lore_replay_single_fav": "§8%p%\n\n§bTime: §e%p%\n\n§bID: §6%p%\n\n§aLeft click to watch\n§dRight click to add/remove from favorite",
   "fb_lore_replay_single": "§8%p%\n\n§bTime: §e%p%\n\n§bID: §6%p%\n\n§aLeft click to watch\n§dRight click to add/remove from favorite\n\n§cThis reply will expire at %p% unless it’s added to favorites.",
   "fb_custom_name": "Custom",
   "fb_custom_length": "§bLength (§aLeft--§8/§cRight++§b)",
